@@ -1,0 +1,80 @@
+<html>
+    <head>
+        <title>Shop</title>
+    </head>
+
+    <header>
+       <p> ⠀ </p> 
+       <a href="#about">About</a>
+       <a href="#catalog">Catalog</a>
+       <a href="#address">Addresses</a>
+       <a href="#hotline">Hotline</a>
+       <h1>Shop</h1>
+       <p> ⠀ </p>
+    </header>
+
+    <main>
+        <h3 id="about">About</h3>
+        <p> Цей сайт націлений на сучасне покоління, тут можна купити якісні речі по доступним цінам.
+        </p>
+        <p>
+            ⠀
+            ⠀
+            ⠀
+            ⠀
+            ⠀
+            
+        </p>
+        <div class="catalog">
+        <h3 id="catalog">Catalog</h3>
+        <table>
+            <tr>
+                <td> 
+                    <img src="https://api.thousand-cursed-enemies.com/assets/b985b3fe-1314-4005-aa4c-c9700152716e/theory-of-ideology-jacket?key=base"> 
+                </td>
+                <td> 
+                    <img src="https://api.thousand-cursed-enemies.com/assets/5d039693-a524-4cbd-811f-ca380a569d8d/theory-of-ideology-hoodie?key=base"> 
+                </td>
+                <td> 
+                    <img src="https://api.thousand-cursed-enemies.com/assets/53860f3c-ffb7-492a-9343-c985d3d56f59/theory-of-ideology-long-sleeve?key=base"> 
+                </td>
+                <td> 
+                    <img src="https://api.thousand-cursed-enemies.com/assets/948f38cb-cc45-4a41-a983-d0f29e92a7ef/theory-of-ideology-pants?key=base"> 
+                </td>
+            </tr>
+
+            <tr>
+                <td> theory of ideology jacket </td>
+                <td> theory of ideology hoodie </td>
+                <td> theory of ideology long sleeve </td>
+                <td> theory of ideology pants </td>
+            </tr>
+
+            <tr>
+                <td> 7600 UAH </td>
+                <td> 6100 UAH </td>
+                <td> 4600 UAH </td>
+                <td> 3600 UAH </td>
+            </tr>
+        </table>
+        </div>
+
+        <div class="adress">
+        <h3 id="address">Addresses</h3>
+        <p> Місто Житомир </p>
+        <p> вул. Караульна 14 </p>
+
+        <p> Місто Бахмут </p>
+        <p> вул. Широка 88 </p>
+
+        <p> Місто Бєлгород </p>
+        <p> вул. Степова 41 </p>
+        </div>
+    </main>
+
+    <footer>
+        <p> ⠀ </p>
+        <h3 id="hotline" class="hotline">Hotline: +380 91 488 1488</h3>
+        <p> ⠀ </p>
+    </footer>
+</html>
